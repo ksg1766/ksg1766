@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=76B900&multiline=true&random=false&width=435&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Glad+to+meet+you+in+my+place+%F0%9F%98%80)](https://git.io/typing-svg)
 
+🌱 I’m currently learning ...
+
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![DirectX](https://img.shields.io/badge/-DirectX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
