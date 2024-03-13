@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 ---
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksg1766&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  
+</div>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg1766&show_icons=true&theme=merko)
   [![GitHub Streak](https://streak-stats.demolab.com?user=ksg1766&theme=merko)](https://git.io/streak-stats)
-
+  
+<div align="center">
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksg1766&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
