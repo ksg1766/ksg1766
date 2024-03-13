@@ -28,11 +28,10 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksg1766%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ---
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksg1766&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksg1766&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=ksg1766&show_icons=true&theme=merko&border_radius=7" height="155px" width="410px"/>
+  <img src="https://streak-stats.demolab.com?user=ksg1766&theme=merko&border_radius=7" height="155px" width="410px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ksg1766&show_icons=true&theme=merko" height="150px" width="400px">
-  <img src="https://streak-stats.demolab.com?user=ksg1766&theme=merko"height="150px" width="400px">
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksg1766&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksg1766&theme=merko" height="300px" width="800px"/>
 </div>
