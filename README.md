@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=76B900&multiline=true&random=false&width=435&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Glad+to+meet+you+in+my+place+%F0%9F%98%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=76B900&multiline=true&random=false&width=435&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Glad+to+meet+you+in+my+place+%F0%9F%98%80)](https://git.io/typing-svg)
 
 🌱 I’m currently learning ...
 
